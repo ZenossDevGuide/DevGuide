@@ -47,7 +47,8 @@ the next version.  A basic template document, in Word format, is provided.
 Please use the ZenPack Development forum for discussions - http://www.zenoss.org/forums/zenpack-development .  
 We could also try using the "Issues" tab on GitHub for feedback.  
 
-To download the pdf document, click on ZenPack_DevGuide_V1.0.0_publish1_20160630.pdf .   You get to 
+To download the pdf document, click on the latest published guide, eg.
+ZenPack_DevGuide_V1.0.1_publish1_20160920.pdf .   You get to 
 see about the first 40 pages - you can select More to continue viewing online.  To download, 
 click the Raw button when viewing the doc and select where to save. 
 
