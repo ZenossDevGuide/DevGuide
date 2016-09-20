@@ -55,5 +55,8 @@ Change History
 ==============
 * 1.0.0
    - Initial public release
+* 1.0.1
+   - With odd / even page numbers fixed and document history
+
 
 
